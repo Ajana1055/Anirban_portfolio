@@ -36,3 +36,6 @@ The provided professional headshot is already stored at `public/profile.png` and
 ## Deploy
 
 The project can be deployed to Vercel, Netlify or any Node.js host that supports Next.js. For Vercel, import the project/repository and keep the default Next.js build settings.
+
+
+https://anirban-portfolio-t4mm.onrender.com/
